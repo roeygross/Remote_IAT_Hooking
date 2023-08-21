@@ -1,5 +1,5 @@
 # Operating-Systems-Project
-The project simulates a secret cyber attack performed by malware.
+The project simulates a silent cyber attack performed by malware.
 I've implemented DLL injection into the target process, leveraging Windows API functions to seamlessly inject custom code.
 I further extended the project by performing Import Address Table (IAT) hooking, enabling interception and redirection of specific function calls within the target process.
 
